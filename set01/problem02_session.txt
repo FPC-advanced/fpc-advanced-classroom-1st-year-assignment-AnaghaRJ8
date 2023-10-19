@@ -21,3 +21,14 @@ PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-
 
 PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem02.exe
 the sum of the two numbers is 5
+PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> git add .
+
+PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> git commit -m "committed 10/19/2023, 4:07:51 PM"
+
+PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> git push
+
+PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20231019160804
+**********************
