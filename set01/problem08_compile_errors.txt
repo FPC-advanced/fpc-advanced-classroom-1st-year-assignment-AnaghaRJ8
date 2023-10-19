@@ -1,0 +1,58 @@
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c: In function 'main':
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:4:8: warning: implicit declaration of function 'get_array_size' [-Wimplicit-function-declaration]
+    4 |     n= get_array_size();
+      |        ^~~~~~~~~~~~~~
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:6:5: warning: implicit declaration of function 'get_array_values' [-Wimplicit-function-declaration]
+    6 |     get_array_values(n,a);
+      |     ^~~~~~~~~~~~~~~~
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:7:9: warning: implicit declaration of function 'find_sum_array' [-Wimplicit-function-declaration]
+    7 |     sum=find_sum_array(n,a,sum);
+      |         ^~~~~~~~~~~~~~
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:8:5: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+    8 |     output(sum);
+      |     ^~~~~~
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c: In function 'get_array_size':
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:14:5: warning: implicit declaration of function 'printf' [-Wimplicit-function-declaration]
+   14 |     printf("Enter the size of array : \n");
+      |     ^~~~~~
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:1:1: note: include '<stdio.h>' or provide a declaration of 'printf'
+  +++ |+#include <stdio.h>
+    1 | int main()
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:14:5: warning: incompatible implicit declaration of built-in function 'printf' [-Wbuiltin-declaration-mismatch]
+   14 |     printf("Enter the size of array : \n");
+      |     ^~~~~~
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:14:5: note: include '<stdio.h>' or provide a declaration of 'printf'
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:15:5: warning: implicit declaration of function 'scanf' [-Wimplicit-function-declaration]
+   15 |     scanf("%d",&n);
+      |     ^~~~~
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:15:5: note: include '<stdio.h>' or provide a declaration of 'scanf'
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:15:5: warning: incompatible implicit declaration of built-in function 'scanf' [-Wbuiltin-declaration-mismatch]
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:15:5: note: include '<stdio.h>' or provide a declaration of 'scanf'
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c: At top level:
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:19:6: warning: conflicting types for 'get_array_values'; have 'void(int,  int *)'
+   19 | void get_array_values(int n, int a[n])
+      |      ^~~~~~~~~~~~~~~~
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:6:5: note: previous implicit declaration of 'get_array_values' with type 'void(int,  int *)'
+    6 |     get_array_values(n,a);
+      |     ^~~~~~~~~~~~~~~~
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c: In function 'get_array_values':
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:23:5: warning: incompatible implicit declaration of built-in function 'printf' [-Wbuiltin-declaration-mismatch]
+   23 |     printf("enter the values \n");
+      |     ^~~~~~
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:23:5: note: include '<stdio.h>' or provide a declaration of 'printf'
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:24:5: warning: incompatible implicit declaration of built-in function 'scanf' [-Wbuiltin-declaration-mismatch]
+   24 |     scanf("%d",&a[i]);
+      |     ^~~~~
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:24:5: note: include '<stdio.h>' or provide a declaration of 'scanf'
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c: At top level:
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:36:6: warning: conflicting types for 'output'; have 'void(int)'
+   36 | void output(int sum)
+      |      ^~~~~~
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:8:5: note: previous implicit declaration of 'output' with type 'void(int)'
+    8 |     output(sum);
+      |     ^~~~~~
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c: In function 'output':
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:38:5: warning: incompatible implicit declaration of built-in function 'printf' [-Wbuiltin-declaration-mismatch]
+   38 |     printf("the sum of arrays is %d",sum);
+      |     ^~~~~~
+c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem08.c:38:5: note: include '<stdio.h>' or provide a declaration of 'printf'
