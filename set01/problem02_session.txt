@@ -19,3 +19,5 @@ SerializationVersion: 1.1.0.1
 Transcript started, output file is c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem02_session.txt
 PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> gcc -g "c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem02.c" -o "c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem02.exe" 2>&1
 
+PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set01\problem02.exe
+the sum of the two numbers is 5
