@@ -25,7 +25,7 @@ PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-
 
 PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> git commit -m "committed 10/25/2023, 8:46:01 PM"
 
-PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> git push
+PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8>  git push
 
 PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> Stop-Transcript
 **********************
