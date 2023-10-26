@@ -28,3 +28,4 @@ void output(float base, float height, float area)
 {
     printf("\nThe area of triangle is %f\n",area);
 }
+
