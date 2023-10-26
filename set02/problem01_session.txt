@@ -19,3 +19,16 @@ SerializationVersion: 1.1.0.1
 Transcript started, output file is c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set02\problem01_session.txt
 PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> gcc -g "c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set02\problem01.c" -o "c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set02\problem01.exe" 2>&1
 
+PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> c:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8\set02\problem01.exe
+
+PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> git add .
+
+PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> git commit -m "committed 10/26/2023, 10:18:07 AM"
+
+PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> git push
+
+PS C:\Users\anagh\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-AnaghaRJ8> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20231026101828
+**********************
